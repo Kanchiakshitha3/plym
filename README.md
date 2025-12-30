@@ -1,47 +1,25 @@
-
-
 🎮 PLYM Games – Gaming Café OS
-
 Coming Soon / Product Status Dashboard (Full-Stack MERN)
-
 A full-stack product preview / coming-soon dashboard for PLYM Games – Gaming Café OS, built as part of a technical assessment.
 This application displays build progress, feature readiness, and collects early-access emails.
-
 🔥 Features
-
 🚀 Live build progress dashboard
-
 📊 Dynamic feature status cards
-
 🧩 Roadmap section (Now / Next)
-
 📧 Early access email collection
-
 🔄 REST API powered data
-
 🎨 Modern UI using Tailwind CSS
-
 ☁️ MongoDB Atlas integration
-
-🧱 Tech Stack
-Frontend
-
+🧱 Tech Stack:
+1)Frontend:
 React.js
-
 Tailwind CSS
-
 Axios (API communication)
-
 Backend
-
 Node.js
-
 Express.js
-
 MongoDB (MongoDB Atlas)
-
 Mongoose ODM
-
 📁 Project Structure
 PLYM-Games-Fullstack/
 │
